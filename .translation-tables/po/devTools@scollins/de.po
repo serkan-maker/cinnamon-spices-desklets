@@ -1,0 +1,453 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-30 01:05-0600\n"
+"PO-Revision-Date: 2017-05-01 11:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: sandbox.js:71
+msgid "Open"
+msgstr "Öffnen"
+
+#: sandbox.js:77
+msgid "Save"
+msgstr "Speichern"
+
+#: sandbox.js:83
+msgid "Save As"
+msgstr "Speichern als"
+
+#: sandbox.js:144
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: sandbox.js:160
+msgid "Evaluate"
+msgstr "Auswerten"
+
+#: sandbox.js:165
+msgid "Javascript"
+msgstr "Javascript"
+
+#: sandbox.js:169
+msgid "Style"
+msgstr "Style"
+
+#: sandbox.js:175
+msgid "Load current stylesheet"
+msgstr "Aktuelles Stylesheet laden"
+
+#: sandbox.js:199
+msgid "No errors detected"
+msgstr "Keine Fehler entdeckt"
+
+#: errorLog.js:37
+msgid "X-Session Log"
+msgstr "X-Session Log"
+
+#: errorLog.js:55
+msgid "Hide old errors"
+msgstr "Alte Fehler ausblenden"
+
+#: errorLog.js:70 terminal.js:63
+msgid "Clear"
+msgstr "Leeren"
+
+#: errorLog.js:123
+msgid "Cinnamon Log"
+msgstr "Cinnamon Log"
+
+#: errorLog.js:140
+msgid "Show Timestamp"
+msgstr "Zeitstempel anzeigen"
+
+#: errorLog.js:148
+msgid "Infos"
+msgstr "Infos"
+
+#: errorLog.js:156
+msgid "Warnings"
+msgstr "Warnungen"
+
+#: errorLog.js:164
+msgid "Errors"
+msgstr "Fehler"
+
+#: errorLog.js:172
+msgid "Traces"
+msgstr "Traces"
+
+#: errorLog.js:186
+msgid "Copy"
+msgstr "Kopieren"
+
+#: inspect.js:120
+msgid "(Press Pause or Control to disable event pass through)"
+msgstr "(Drücken Sie Pause oder Steuerung, um Ereignis zu deaktivieren)"
+
+#: inspect.js:122
+msgid "(Press Pause or Control to enable event pass through)"
+msgstr "(Drücken Sie Pause oder Steuerung, um Ereignis durchzulassen)"
+
+#: inspect.js:358 inspect.js:544 desklet.js:450 windows.js:86 extensions.js:140
+#: extensions.js:158
+msgid "Inspect"
+msgstr "Überprüfen"
+
+#: inspect.js:400
+msgid "Length"
+msgstr "Länge"
+
+#: inspect.js:407
+msgid "Parent"
+msgstr "Übergeordnetes Element"
+
+#: inspect.js:416
+msgid "Children"
+msgstr "Untergeordnetes Element"
+
+#. devTools@scollins->settings-schema.json->height->description
+#: inspect.js:427
+msgid "Height"
+msgstr "Höhe"
+
+#. devTools@scollins->settings-schema.json->width->description
+#: inspect.js:429
+msgid "Width"
+msgstr "Breite"
+
+#: inspect.js:431
+msgid "Visible"
+msgstr "Sichtbar"
+
+#: inspect.js:435
+msgid "Style Class"
+msgstr "Style-Klasse"
+
+#: inspect.js:437
+msgid "None"
+msgstr "Keine"
+
+#: inspect.js:445 windows.js:67
+msgid "Title"
+msgstr "Titel"
+
+#: inspect.js:448 windows.js:72
+msgid "Class"
+msgstr "Klasse"
+
+#: inspect.js:451 windows.js:77
+msgid "Workspace"
+msgstr "Arbeitsfläche"
+
+#: inspect.js:460
+msgid "Monitor"
+msgstr "Monitor"
+
+#: inspect.js:464
+msgid "Size"
+msgstr "Größe"
+
+#: inspect.js:466
+msgid "Position"
+msgstr "Position"
+
+#: inspect.js:483
+msgid "Values"
+msgstr "Werte"
+
+#: inspect.js:484
+msgid "Index"
+msgstr "Index"
+
+#: inspect.js:487
+msgid "Map Elements"
+msgstr "Map-Elemente"
+
+#: inspect.js:488
+msgid "Key"
+msgstr "Key"
+
+#: inspect.js:491
+msgid "Properties"
+msgstr "Eigenschaften"
+
+#: inspect.js:492
+msgid "Name"
+msgstr "Name"
+
+#: inspect.js:498
+msgid "Type"
+msgstr "Typ"
+
+#: inspect.js:499
+msgid "Value"
+msgstr "Wert"
+
+#: tabPanel.js:20 desklet.js:245
+msgid "Untitled"
+msgstr "Unbenannt"
+
+#: desklet.js:45
+msgid "Applet Settings"
+msgstr "Applets"
+
+#: desklet.js:46
+msgid "Desklet Settings"
+msgstr "Desklets"
+
+#: desklet.js:47
+msgid "Extension Settings"
+msgstr "Erweiterungen"
+
+#: desklet.js:48
+msgid "General Settings"
+msgstr "Allgemein"
+
+#: desklet.js:49
+msgid "Panel Settings"
+msgstr "Leiste"
+
+#: desklet.js:50
+msgid "Regional Settings"
+msgstr "Regionale Einstellungen"
+
+#: desklet.js:51
+msgid "Theme Settings"
+msgstr "Themen"
+
+#: desklet.js:52
+msgid "Tile Settings"
+msgstr "Fensterkacheln"
+
+#: desklet.js:53
+msgid "Window Settings"
+msgstr "Fenster"
+
+#: desklet.js:54
+msgid "Workspace Settings"
+msgstr "Arbeitsflächen"
+
+#: desklet.js:287
+msgid "Tools"
+msgstr "Tools"
+
+#: desklet.js:404 desklet.js:547
+msgid "Expand"
+msgstr "Aufklappen"
+
+#. devTools@scollins->settings-schema.json->collapsedStartState->options
+#: desklet.js:408 desklet.js:564
+msgid "Collapse"
+msgstr "Einklappen"
+
+#: desklet.js:424
+msgid "Cinnamon Settings"
+msgstr "Cinnamon-Einstellungen"
+
+#: desklet.js:434
+msgid "Start Sandbox"
+msgstr "Sandbox starten"
+
+#: desklet.js:442
+msgid "Run command line"
+msgstr "Befehlszeile ausführen"
+
+#: desklet.js:458
+msgid "Open Looking Glass"
+msgstr "Looking Glas öffnen"
+
+#: desklet.js:468
+msgid "Reload Theme"
+msgstr "Themen neu laden"
+
+#: desklet.js:478
+msgid "Restart Cinnamon"
+msgstr "Cinnamon neu starten"
+
+#: desklet.js:493
+msgid "All Settings"
+msgstr "Systemeinstellungen"
+
+#: terminal.js:49
+msgid "Command"
+msgstr "Befehl"
+
+#: terminal.js:54
+msgid "Status"
+msgstr "Status"
+
+#: terminal.js:55
+msgid "Running"
+msgstr "Läuft"
+
+#: terminal.js:68
+msgid "End Process"
+msgstr "Prozess beenden"
+
+#: terminal.js:77
+msgid "Output"
+msgstr "Output"
+
+#: terminal.js:103
+msgid "Stopped"
+msgstr "Gestoppt"
+
+#: terminal.js:226
+msgid "Run"
+msgstr "Ausführen"
+
+#: tab.js:126
+msgid "Close Tab"
+msgstr "Tab schließen"
+
+#: windows.js:21 windows.js:123
+msgid "all"
+msgstr "alle"
+
+#: windows.js:92
+msgid "Switch to"
+msgstr "Wechseln zu"
+
+#: windows.js:98
+msgid "Close"
+msgstr "Schließen"
+
+#: windows.js:141
+msgid "Windows"
+msgstr "Fenster"
+
+#: extensions.js:51
+msgid "Infinite"
+msgstr "∞"
+
+#: extensions.js:106
+msgid "Reload"
+msgstr "Neu laden"
+
+#: extensions.js:111 extensions.js:145
+msgid "Remove"
+msgstr "Entfernen"
+
+#: extensions.js:117
+msgid "Instances"
+msgstr "Instanzen"
+
+#: extensions.js:117
+msgid "maximum of"
+msgstr ""
+
+#: extensions.js:135 extensions.js:153
+msgid "Highlight"
+msgstr "Hervorheben"
+
+#: extensions.js:166
+msgid "Configure"
+msgstr ""
+
+#: extensions.js:243
+msgid "Extensions"
+msgstr "Erweiterungen"
+
+#: extensions.js:305
+msgid "failed to create extension item for uuid"
+msgstr ""
+
+#: extensions.js:313
+msgid "No extensions of this type are enabled"
+msgstr ""
+
+#. devTools@scollins->settings-schema.json->collapsedStartState->description
+msgid "On startup"
+msgstr "Beim Start"
+
+#. devTools@scollins->settings-schema.json->collapsedStartState->options
+msgid "Remember Previous State"
+msgstr "Vorherigen Zustand merken"
+
+#. devTools@scollins->settings-schema.json->collapsedStartState->options
+msgid "Show"
+msgstr "Anzeigen"
+
+#. devTools@scollins->settings-schema.json->collapsed->description
+msgid "Collapsed"
+msgstr "Eingeklappt"
+
+#. devTools@scollins->settings-schema.json->sandboxHeader->description
+msgid "Sandbox header"
+msgstr "Sandbox-Kopfzeile"
+
+#. devTools@scollins->settings-schema.json->centerRaised->description
+msgid "Center the desklet on the screen in raised mode"
+msgstr "Das Desklet im Vordergrundmodus auf dem Bildschirm zentrieren"
+
+#. devTools@scollins->settings-schema.json->raiseKey->description
+msgid "Raise to top shorcut key"
+msgstr "Tastenkürzel, um Desklet in den Vordergrund zu bringen"
+
+#. devTools@scollins->metadata.json->name
+msgid "Developer's Tools"
+msgstr "Entwickler-Tools"
+
+#. devTools@scollins->metadata.json->contributors
+msgid "Stephen Collins - Author"
+msgstr "Stephen Collins - Autor"
+
+#. devTools@scollins->metadata.json->comments
+msgid ""
+"This desklet provides tools to help troubleshoot, view and control certain "
+"Cinnamon components and status information, and even test new code without "
+"restarting Cinnamon."
+msgstr ""
+"Dieses Desklet bietet Tools zur Fehlersuche, zum Betrachten und  Steuern "
+"bestimmter Cinnamon-Komponenten und Statusinformationen sowie zum Testen von "
+"neuem Code ohne Neustart von Cinnamon."
+
+#. devTools@scollins->metadata.json->description
+msgid "A desklet for troubleshooting and developing in the Cinnamon UI"
+msgstr ""
+"Ein Desklet für die Fehlersuche und Entwicklung in der Cinnamon-"
+"Benutzeroberfläche"
+
+#~ msgid "Applet"
+#~ msgstr "Applet"
+
+#~ msgid "Desklet"
+#~ msgstr "Desklet"
+
+#~ msgid "Extension"
+#~ msgstr "Erweiterung"
+
+#~ msgid "Search providers"
+#~ msgstr "Suchanbieter"
+
+#~ msgid "Description"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Path"
+#~ msgstr "Pfad"
+
+#~ msgid "of"
+#~ msgstr "von"
+
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
+
+#~ msgid "Show %s"
+#~ msgstr "%s anzeigen"
+
+#~ msgid "s"
+#~ msgstr "Desklet"

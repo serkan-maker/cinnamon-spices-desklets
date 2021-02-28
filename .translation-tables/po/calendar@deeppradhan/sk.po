@@ -1,0 +1,202 @@
+# Slovak translation of Calendar desklet.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Dušan Kazik <prescott66@gmail.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: wiz_kid_o3@yahoo.com\n"
+"POT-Creation-Date: 2018-03-01 21:30+0530\n"
+"PO-Revision-Date: 2021-02-09 16:50+0100\n"
+"Last-Translator: Dušan Kazik <prescott66@gmail.com>\n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+#: desklet.js:105
+msgid "Previous month..."
+msgstr "Predchádzajúci mesiac..."
+
+#: desklet.js:107
+msgid "Next month..."
+msgstr "Nasledujúci mesiac..."
+
+#. calendar@deeppradhan->metadata.json->name
+msgid "Calendar desklet"
+msgstr "Desklet s kalendárom"
+
+#. calendar@deeppradhan->metadata.json->contributors
+msgid "Deep Pradhan"
+msgstr "Deep Pradhan"
+
+#. calendar@deeppradhan->metadata.json->description
+msgid "Configurable Calendar desklet"
+msgstr "Konfigurovateľný desklet s kalendárom"
+
+#. calendar@deeppradhan->metadata.json->comments
+#, fuzzy
+msgid ""
+"Calendar Desklet provides a highly configurable desklet to display current "
+"date and scrollable months. It has a number of possible customisations."
+msgstr ""
+"Desklet s kalendárom poskytuje vysoko konfigurovateľný desklet, ktorý "
+"zobrazuje aktuálny dátum a prezerateľné mesiace. Obsahuje mnoho možných "
+"prispôsobení."
+
+#. calendar@deeppradhan->settings-schema.json->font-size->description
+msgid "Font size (pt)"
+msgstr "Veľkosť písma (body)"
+
+#. calendar@deeppradhan->settings-schema.json->font-size->tooltip
+msgid "Set the text font size in points"
+msgstr "Nastaví veľkosť písma textu v bodoch"
+
+#. calendar@deeppradhan->settings-schema.json->layout->description
+msgid "Layout of desklet"
+msgstr "Rozloženie deskletu"
+
+#. calendar@deeppradhan->settings-schema.json->layout->tooltip
+msgid "Set the overall layout to horizontal/vertical of desklet"
+msgstr "Nastaví celkové rozloženie deskletu na vodorovné a zvislé"
+
+#. calendar@deeppradhan->settings-schema.json->layout->options
+msgid "Horizontal"
+msgstr "Vodorovné"
+
+#. calendar@deeppradhan->settings-schema.json->layout->options
+msgid "Vertical"
+msgstr "Zvislé"
+
+#. calendar@deeppradhan->settings-schema.json->transparency->description
+msgid "Transparency (%)"
+msgstr "Priehľadnosť (%)"
+
+#. calendar@deeppradhan->settings-schema.json->transparency->tooltip
+msgid "Set the transparency of desklet in percentage"
+msgstr "Nastaví priehľadnosť deskletu v percentách"
+
+#. calendar@deeppradhan->settings-schema.json->show-time->description
+msgid "Show time"
+msgstr "Zobrazenie času"
+
+#. calendar@deeppradhan->settings-schema.json->show-time->tooltip
+msgid "Show or hide time (hours and minutes)"
+msgstr "Zobrazí alebo skryje čas (hodiny a minúty)"
+
+#. calendar@deeppradhan->settings-schema.json->custom-font-family->description
+msgid "Custom font family for text (blank to use default)"
+msgstr "Vlastná rodina písma textu (prázdna hodnota nastaví predvolenú)"
+
+#. calendar@deeppradhan->settings-schema.json->custom-font-family->tooltip
+msgid "Set a custom font family for the text (blank to use default font)"
+msgstr ""
+"Nastaví vlastnú rodinu písma pre text (prázdnou hodnotou sa nastaví "
+"predvolené písmo)"
+
+#. calendar@deeppradhan->settings-schema.json->top->description
+msgid "Calendar configuration"
+msgstr "Konfigurácia kalendára"
+
+#. calendar@deeppradhan->settings-schema.json->colour-background->description
+msgid "Background colour"
+msgstr "Farba pozadia"
+
+#. calendar@deeppradhan->settings-schema.json->colour-background->tooltip
+msgid "Set background colour of desklet"
+msgstr "Nastaví farbu pozadia deskletu"
+
+#. calendar@deeppradhan->settings-schema.json->short-month-name->description
+msgid "Short month name"
+msgstr "Skrátený názov mesiaca"
+
+#. calendar@deeppradhan->settings-schema.json->short-month-name->tooltip
+msgid "Show short month name"
+msgstr "Zobrazí skrátený názov mesiaca"
+
+#. calendar@deeppradhan->settings-schema.json->show-weekday->description
+msgid "Show day of week"
+msgstr "Zobrazenie dňa v týždni"
+
+#. calendar@deeppradhan->settings-schema.json->show-weekday->tooltip
+msgid "For day of week; show full name, short name or disable showing"
+msgstr ""
+"Nastaví zobrazenie úplného názvu, skráteného názvu alebo zakáže zobrazenie "
+"dňa v týždni"
+
+#. calendar@deeppradhan->settings-schema.json->show-weekday->options
+#. calendar@deeppradhan->settings-schema.json->show-year->options
+msgid "Full"
+msgstr "Úplný"
+
+#. calendar@deeppradhan->settings-schema.json->show-weekday->options
+#. calendar@deeppradhan->settings-schema.json->show-year->options
+msgid "Short"
+msgstr "Krátky"
+
+#. calendar@deeppradhan->settings-schema.json->show-weekday->options
+#. calendar@deeppradhan->settings-schema.json->show-year->options
+msgid "No"
+msgstr "Nie"
+
+#. calendar@deeppradhan->settings-schema.json->show-year->description
+msgid "Show year"
+msgstr "Zobrazenie roku"
+
+#. calendar@deeppradhan->settings-schema.json->show-year->tooltip
+msgid "For year; show all digits, show last two digits or disable showing"
+msgstr ""
+"Nastaví zobrazenie roka so všetkým číslicami, poslednými dvoma číslicami "
+"alebo zakáže zobrazenie roka"
+
+#. calendar@deeppradhan->settings-schema.json->colour-saturdays->description
+msgid "Text colour for Saturdays"
+msgstr "Farba textu pre soboty"
+
+#. calendar@deeppradhan->settings-schema.json->colour-saturdays->tooltip
+msgid "Set text colour for Saturdays"
+msgstr "Nastaví farbu textu pre soboty"
+
+#. calendar@deeppradhan->settings-schema.json->colour-sundays->description
+msgid "Text colour for Sundays"
+msgstr "Farba textu pre nedele"
+
+#. calendar@deeppradhan->settings-schema.json->colour-sundays->tooltip
+msgid "Set text colour for Sundays"
+msgstr "Nastaví farbu textu pre nedele"
+
+#. calendar@deeppradhan->settings-schema.json->panels->description
+msgid "Panels to show"
+msgstr "Panely na zobrazenie"
+
+#. calendar@deeppradhan->settings-schema.json->panels->tooltip
+msgid "Select the panels to display in desklet"
+msgstr "Vyberie panely, ktoré sa zobrazia v desklete"
+
+#. calendar@deeppradhan->settings-schema.json->panels->options
+msgid "Both Today & Month"
+msgstr "Dnes a mesiac"
+
+#. calendar@deeppradhan->settings-schema.json->panels->options
+msgid "Today only"
+msgstr "Iba dnes"
+
+#. calendar@deeppradhan->settings-schema.json->panels->options
+msgid "Month only"
+msgstr "Iba mesiac"
+
+#. calendar@deeppradhan->settings-schema.json->display->description
+msgid "Desklet style configuration"
+msgstr "Konfigurácia štýlu deskletu"
+
+#. calendar@deeppradhan->settings-schema.json->colour-text->description
+msgid "Text colour"
+msgstr "Farba textu"
+
+#. calendar@deeppradhan->settings-schema.json->colour-text->tooltip
+msgid "Set text colour of desklet"
+msgstr "Nastaví farbu textu deskletu"
